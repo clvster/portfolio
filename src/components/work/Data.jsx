@@ -8,33 +8,45 @@ export const projectsData = [
     {
         id: 1,
         image: Work1,
-        title: "Web design",
+        title: "Frontend Development",
         category: "web",
     },
     {
         id: 2,
         image: Work2,
-        title: "App movil",
-        category: "app",
+        title: "Calendar",
+        category: "console",
     },
     {
         id: 3,
         image: Work3,
-        title: "Brand design",
-        category: "design",
+        title: "Matrix Calculator",
+        category: "Console",
     },
     {
         id: 4,
         image: Work4,
-        title: "App movil",
-        category: "app",
+        title: "Hex View",
+        category: "console",
     },
     {
         id: 5,
         image: Work5,
-        title: "Web design",
-        category: "web",
+        title: "Roman Calculator",
+        category: "Console",
     },
+    {
+        id: 6,
+        image: Work1,
+        title: "Crockford Base",
+        category: "Console",
+    },
+    {
+        id: 7,
+        image: Work2,
+        title: "Datetime",
+        category: "Console",
+    }
 ];
 
 export const projectsNav = [
@@ -45,9 +57,6 @@ export const projectsNav = [
         name: 'web',
     },
     {
-        name: 'app',
-    },
-    {
-        name: 'design',
+        name: 'console',
     },
 ]
